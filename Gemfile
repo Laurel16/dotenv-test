@@ -1,6 +1,6 @@
 gem 'dotenv-rails', groups: [:development, :test]
 
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.4.3'
